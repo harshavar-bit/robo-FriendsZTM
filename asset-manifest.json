@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/React-Robo-Friends-ZTM/static/css/main.14b59b7d.chunk.css",
-    "main.js": "/React-Robo-Friends-ZTM/static/js/main.b22e9ddb.chunk.js",
-    "main.js.map": "/React-Robo-Friends-ZTM/static/js/main.b22e9ddb.chunk.js.map",
-    "runtime-main.js": "/React-Robo-Friends-ZTM/static/js/runtime-main.a6566aa8.js",
-    "runtime-main.js.map": "/React-Robo-Friends-ZTM/static/js/runtime-main.a6566aa8.js.map",
-    "static/css/2.c1f4f5f4.chunk.css": "/React-Robo-Friends-ZTM/static/css/2.c1f4f5f4.chunk.css",
-    "static/js/2.6a7f8ad0.chunk.js": "/React-Robo-Friends-ZTM/static/js/2.6a7f8ad0.chunk.js",
-    "static/js/2.6a7f8ad0.chunk.js.map": "/React-Robo-Friends-ZTM/static/js/2.6a7f8ad0.chunk.js.map",
-    "static/js/3.1d3fe5c9.chunk.js": "/React-Robo-Friends-ZTM/static/js/3.1d3fe5c9.chunk.js",
-    "static/js/3.1d3fe5c9.chunk.js.map": "/React-Robo-Friends-ZTM/static/js/3.1d3fe5c9.chunk.js.map",
-    "index.html": "/React-Robo-Friends-ZTM/index.html",
-    "static/css/2.c1f4f5f4.chunk.css.map": "/React-Robo-Friends-ZTM/static/css/2.c1f4f5f4.chunk.css.map",
-    "static/css/main.14b59b7d.chunk.css.map": "/React-Robo-Friends-ZTM/static/css/main.14b59b7d.chunk.css.map",
-    "static/js/2.6a7f8ad0.chunk.js.LICENSE.txt": "/React-Robo-Friends-ZTM/static/js/2.6a7f8ad0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/React-Robo-Friends-ZTM/static/media/Cocogoose Pro Regular Trial.3a9e9172.woff"
+    "main.css": "/robo-FriendsZTM/static/css/main.d528322d.chunk.css",
+    "main.js": "/robo-FriendsZTM/static/js/main.b22e9ddb.chunk.js",
+    "main.js.map": "/robo-FriendsZTM/static/js/main.b22e9ddb.chunk.js.map",
+    "runtime-main.js": "/robo-FriendsZTM/static/js/runtime-main.c18a1e93.js",
+    "runtime-main.js.map": "/robo-FriendsZTM/static/js/runtime-main.c18a1e93.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/robo-FriendsZTM/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.6a7f8ad0.chunk.js": "/robo-FriendsZTM/static/js/2.6a7f8ad0.chunk.js",
+    "static/js/2.6a7f8ad0.chunk.js.map": "/robo-FriendsZTM/static/js/2.6a7f8ad0.chunk.js.map",
+    "static/js/3.1d3fe5c9.chunk.js": "/robo-FriendsZTM/static/js/3.1d3fe5c9.chunk.js",
+    "static/js/3.1d3fe5c9.chunk.js.map": "/robo-FriendsZTM/static/js/3.1d3fe5c9.chunk.js.map",
+    "index.html": "/robo-FriendsZTM/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/robo-FriendsZTM/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.d528322d.chunk.css.map": "/robo-FriendsZTM/static/css/main.d528322d.chunk.css.map",
+    "static/js/2.6a7f8ad0.chunk.js.LICENSE.txt": "/robo-FriendsZTM/static/js/2.6a7f8ad0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robo-FriendsZTM/static/media/Cocogoose Pro Regular Trial.3a9e9172.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6566aa8.js",
+    "static/js/runtime-main.c18a1e93.js",
     "static/css/2.c1f4f5f4.chunk.css",
     "static/js/2.6a7f8ad0.chunk.js",
-    "static/css/main.14b59b7d.chunk.css",
+    "static/css/main.d528322d.chunk.css",
     "static/js/main.b22e9ddb.chunk.js"
   ]
 }
