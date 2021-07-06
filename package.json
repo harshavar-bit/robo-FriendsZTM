@@ -1,10 +1,8 @@
 {
+  "homepage": "http://harshavar-bit.github.io/React-Robo-Friends-ZTM",
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  // "username": "harshavar-bit",
-  // "repo-name": "React-Robo-Friends-ZTM",
-  "homepage": "http://harshavar-bit.github.io/React-Robo-Friends-ZTM",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
