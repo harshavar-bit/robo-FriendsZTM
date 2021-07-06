@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Cocogoose Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Cocogoose Pro Regular'), url('Cocogoose Pro Regular Trial.woff') format('woff');
+    }
+
+h1 {
+    background: linear-gradient(to right, rgba(29, 59, 155, 0.7), rgba(0,108,108,1));
+    font-family: 'Cocogoose Pro Regular';
+    font-weight: 500;
+    color:bisque;
+    letter-spacing: 1px;
+}
+
+.loader {
+    border: 16px solid #f3f3f3; 
+    border-top: 16px solid #3498db;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
