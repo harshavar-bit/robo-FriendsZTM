@@ -16,7 +16,7 @@ class App extends Component  {
 
     componentDidMount () {
         //for the sake of updating robots with api
-        fetch('https://jsonplaceholder.typicode.com/users')
+        fetch('https://mysterious-oasis-81751.herokuapp.com/https://jsonplaceholder.typicode.com/users')
             .then(response => response.json())
             .then(users => {this.setState({robots : users})})
         // console.log("componentDidMount");
