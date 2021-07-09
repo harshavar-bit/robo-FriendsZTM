@@ -1,4 +1,5 @@
-# An experimental site to experiment and tinker with react and understand underlying concepts of React.
+# An experimental site 
+-to experiment and tinker with react and understand underlying concepts of React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
